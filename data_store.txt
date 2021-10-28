@@ -1,0 +1,6 @@
+Orange_fresh 2.5 
+Apple_fresh 2.5 
+Mixed_fresh 3.5 
+French_sandwich 3.0
+Toast 2.5
+end
